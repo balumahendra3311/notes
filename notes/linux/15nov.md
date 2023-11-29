@@ -16,7 +16,8 @@
 ### how to add existing user into existing group:
 ---------------------------------------------
    * syntax: usermod -a -G <groupname> <username>
-    * ex: usermod -a -G devops18 devops
+  
+   * ex: usermod -a -G devops18 devops
 
 ### switch users:
 ------------
